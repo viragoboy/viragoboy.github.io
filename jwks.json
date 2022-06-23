@@ -1,12 +1,12 @@
 {
-"keys": [ 
-{
-"kty": "RSA",
-"n": "n3Q14sTvkvTyvUgIcbxjQa3AiSJXA5bjssXVA-Gndvi5yXwxHSZEztgy8CTTduVKK2oPS1xm-jN283n2zH3647sDnMM66Xy7gD5HVOo-Zf_EBTLUtJpGR23iosevnfvkT2vUW4cLWUcSBl-TIDaI7gGHAMqkoaxzOck7F8vaRZLFTkMp-t-IGMJkjx07LrYV9OG0WADKKsi_TpkPxzPhi9O9p6sm-RH5dMgdSsTTKgSIKaAh0idkInWVaVCRXib9R6RAYqcD8EX357gUvPd1q7l-fzbdGp6V2cEn6gjOSugfWdwl5-6nug3GjoTvw4I2-Pon9i0AmXSMcQBcqdFhLgwoEEjJ7RS2Ee4lIWl-HV4UScgxemMaEiYlRKstfYP8dA9Hcpq8HJO25mp6gUuGfyZ1Nu44fPs8TZiIKm-la8paveveMpHhcVDiGP6m00cMeESxUDQBwIIKU7AUhS-rEhvhJw0J6hCjCM1QJW0DqOMmVd0M5Mjx6SSAvHr7I2LPlaGwg0hq5UNgpFOZPfMUNJc4pfyDYI1hguadI42ngDRaP5aTwwpHsGkf64Bw8l4swVICojc8MIJBI-9w5t_gjgdfNDF2s1BQdHOHUKzcbPQ_ZdC0F0OtZaXKWt3no9hLFsL0tPfem5DtXcV2Obu2N8fjnuMqko0qIM2DCminELU",
-"e": "AQAB",
-"alg": "RS256",
-"kid": "cRWPgAWZxXopUq0dXHp16dDc1sfsMUytWhRNwTw-OnQ",
-"use": "sig"
-}
-]
+    "keys": [
+        {
+            "kty": "RSA",
+            "e": "AQAB",
+            "use": "sig",
+            "kid": "cRWPgAWZxXopUq0dXHp16dDc1sfsMUytWhRNwTw-OnQ",
+            "alg": "RS256",
+            "n": "xzrWje3UP_IkCqY0uU7yUjRDczrhjeNppcQ-EjVfpVf544e9Qw6w_Tm8E6qtc6BsRjELA4WEyqb1LT1roTlfxl4YK0Gz857Kmbxb7YacR4q_E66DJCCBCupfPLMKErNWCXMUNM8ISjvmHNRluNt6PwRyfOAKidlYrBpcI9Y-hMhrppGkBf3VwiLEXRd8v8_f5YSf_rFCOm4ZyaVjjHX6OUt3ff8TjZbz8EwrneHtGkvFyWWtMAoAJXN6OZWjAUhp40Jg-Uy7HBSJcsv1kzkYvo1d_7FV8-g3Yk3ddnBAGIICFTYD5Zylqc0_Q7W0iuhxxUzCqSCSAxyIyDGY3kzU9w"
+        }
+    ]
 }
